@@ -842,6 +842,15 @@ div#loading img {
     border-radius: 0px 0px 15px 15px;
     border-top: 3px solid #1787fc;
   }
+  .nav-link-item {
+    color: #fafafa !important;
+  }
+  .content p {
+    color: #fafafa !important;
+  }
+  .content h1 {
+    color: #fafafa !important;
+  }
 }
 
 .site-menu-main > li .sub-menu > ul > li > a {
